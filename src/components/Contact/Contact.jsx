@@ -1,5 +1,5 @@
 import { useRef, useState } from "react";
-import "./contact.scss";
+import "./Contact.scss";
 import { motion } from "framer-motion";
 import { useInView } from "react-intersection-observer";
 import ReCAPTCHA from "react-google-recaptcha";

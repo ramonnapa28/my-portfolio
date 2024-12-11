@@ -1,4 +1,4 @@
-import "./home.scss";
+import "./Home.scss";
 import { motion } from "framer-motion";
 
 const Home = () => {

@@ -1,5 +1,5 @@
 import { useRef } from "react";
-import "./portfolio.scss";
+import "./Portfolio.scss";
 
 import * as svgs from "../../Assets/Logos/index";
 import kariton from "../../Assets/Images/kariton-ss.png";
